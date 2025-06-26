@@ -1,0 +1,10 @@
+{
+    "model": "checkpoint-4210",
+    "accuracy": 90.71,
+    "latency_ms": 11.34,
+    "energy_per_query_j": 1.1412,
+    "total_energy_j": 995.1,
+    "emissions_kg": 0.000197,
+    "model_size_mb": 767.33,
+    "num_samples": 872
+}

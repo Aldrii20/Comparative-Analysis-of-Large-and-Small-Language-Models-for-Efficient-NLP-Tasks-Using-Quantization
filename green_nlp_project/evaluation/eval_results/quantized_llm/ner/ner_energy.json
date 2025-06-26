@@ -1,0 +1,13 @@
+{
+    "model": "llama2_7b_chat_q4_gguf",
+    "accuracy": 90.02,
+    "f1": 0.0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "latency_ms": 953.13,
+    "energy_per_query_j": 55.5089,
+    "total_energy_j": 11101.78,
+    "emissions_kg": 0.0022,
+    "model_size_mb": 3891.95,
+    "num_samples": 200
+}

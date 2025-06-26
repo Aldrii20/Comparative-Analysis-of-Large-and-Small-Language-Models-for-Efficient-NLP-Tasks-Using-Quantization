@@ -1,0 +1,49 @@
+===============================
+Folders to Ignore (Custom)
+===============================
+models/
+datasets/
+logs/
+saved_models/
+results/
+tmp_output*/
+tmp_output_qa_eval/
+tmp_output_sentiment_eval/
+tmp_output_summarization_eval/
+
+===============================
+Python Cache & Artifacts
+===============================
+pycache/
+*.py[cod]
+*.so
+*.pyd
+*.ipynb_checkpoints/
+
+===============================
+OS and Editor-specific
+===============================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+===============================
+Virtual Environments
+===============================
+.env/
+.venv/
+env/
+venv/
+pip-wheel-metadata/
+build/
+dist/
+*.egg-info/
+
+===============================
+Temporary Files
+===============================
+*.log
+*.tmp
+*.bak
+*.csv

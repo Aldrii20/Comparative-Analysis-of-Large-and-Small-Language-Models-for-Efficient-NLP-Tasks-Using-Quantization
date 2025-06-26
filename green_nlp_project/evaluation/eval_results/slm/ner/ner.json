@@ -1,0 +1,13 @@
+{
+    "model": "ner",
+    "accuracy": 95.32,
+    "f1": 56.41,
+    "precision": 65.1,
+    "recall": 49.76,
+    "latency_ms": 5.61,
+    "energy_per_query_j": 0.5533,
+    "total_energy_j": 558.31,
+    "emissions_kg": 0.000111,
+    "model_size_mb": 411.83,
+    "num_samples": 1009
+}

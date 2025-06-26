@@ -1,0 +1,11 @@
+{
+    "model": "llama-2-7b-32k-instruct.Q4_K_M.gguf",
+    "exact_match": 5.0,
+    "f1": 10.71,
+    "latency_ms": 19590.34,
+    "energy_per_query_j": 1114.2,
+    "total_energy_j": 111419.98,
+    "emissions_kg": 0.022081,
+    "model_size_mb": 3891.95,
+    "num_samples": 100
+}

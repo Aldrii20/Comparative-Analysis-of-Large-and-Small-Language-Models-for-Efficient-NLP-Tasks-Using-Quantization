@@ -1,0 +1,10 @@
+{
+    "model": "qa",
+    "accuracy": 56.04,
+    "latency_ms": 8.22,
+    "energy_per_query_j": 0.8402,
+    "total_energy_j": 8881.19,
+    "emissions_kg": 0.00176,
+    "model_size_mb": 254.08,
+    "num_samples": 10570
+}

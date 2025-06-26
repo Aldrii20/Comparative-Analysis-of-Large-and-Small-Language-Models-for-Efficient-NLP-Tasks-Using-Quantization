@@ -1,0 +1,14 @@
+{
+    "model": "flan-t5",
+    "accuracy": 15.0,
+    "f1": 22.75,
+    "precision": 51.29,
+    "recall": 15.0,
+    "rougeL": 19.08,
+    "latency_ms": 203.43,
+    "energy_per_query_j": 17.2521,
+    "total_energy_j": 17252.1,
+    "emissions_kg": 1.1e-05,
+    "model_size_mb": 947.56,
+    "num_samples": 1000
+}

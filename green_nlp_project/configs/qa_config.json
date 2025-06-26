@@ -1,0 +1,8 @@
+{
+    "model_name": "bert-base-uncased",
+    "task": "question-answering",
+    "max_length": 384,
+    "stride": 128,
+    "batch_size": 8,
+    "use_cuda": true
+}

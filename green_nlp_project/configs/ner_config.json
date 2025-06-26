@@ -1,0 +1,7 @@
+{
+    "model_name": "dslim/bert-base-NER",
+    "task": "ner",
+    "max_length": 128,
+    "batch_size": 16,
+    "use_cuda": true
+}

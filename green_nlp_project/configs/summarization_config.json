@@ -1,0 +1,7 @@
+{
+    "model_name": "facebook/bart-large-cnn",
+    "task": "summarization",
+    "max_length": 512,
+    "batch_size": 4,
+    "use_cuda": true
+}

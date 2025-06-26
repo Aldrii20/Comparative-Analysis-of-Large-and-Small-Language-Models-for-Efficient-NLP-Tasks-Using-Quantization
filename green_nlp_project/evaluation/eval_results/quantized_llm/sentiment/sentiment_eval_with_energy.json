@@ -1,0 +1,13 @@
+{
+    "model": "model",
+    "accuracy": 88.0,
+    "f1": 70.09,
+    "precision": 60.74,
+    "recall": 82.83,
+    "latency_ms": 13138.46,
+    "energy_per_query_j": 1340.4841,
+    "total_energy_j": 268096.82,
+    "emissions_kg": 0.053131,
+    "model_size_mb": 3718.48,
+    "num_samples": 200
+}
